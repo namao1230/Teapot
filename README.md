@@ -2,6 +2,11 @@
 # 컴퓨터공학과 20210817 신현진
 
 ------------
+
+https://github.com/Embarcadero/Dev-Cpp/assets/153504478/4d8da0df-315b-4b43-b5bc-144c326f078e
+
+------------
+
 //코드
 
     #include <GL/glut.h>
